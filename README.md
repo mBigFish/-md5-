@@ -104,59 +104,23 @@ https://x.threatbook.com/v5/apiDocs
 
 ```
 # 直接运行pip install -r requirements.txt
-# 因为我导出的还有本地环境的包，所以下面有些包肯定是用不到的，不嫌麻烦的可以直接去一个个安装
-amqp==2.6.0
-billiard==3.6.3.0
-celery==4.4.5
-certifi==2024.7.4
+certifi==2024.8.30
 charset-normalizer==3.3.2
-click==7.1.2
-colorama==0.4.6
-contextlib2==21.6.0
-DateTime==5.5
 et-xmlfile==1.1.0
-exceptiongroup==1.2.2
-execnet==2.1.1
-Flask==1.1.2
-flower==0.9.4
-future==0.18.2
-humanize==0.5.1
-idna==3.7
-importlib-metadata==1.6.1
-iniconfig==2.0.0
-itsdangerous==1.1.0
-Jinja2==2.11.2
-kombu==4.6.10
-MarkupSafe==1.1.1
-mock==5.1.0
+idna==3.8
 numpy==2.0.2
 openpyxl==3.1.5
-packaging==24.1
 pandas==2.2.2
-path==17.0.0
-path.py==12.5.0
-pillow==10.4.0
-pluggy==1.5.0
 PySide6==6.7.2
 PySide6_Addons==6.7.2
 PySide6_Essentials==6.7.2
-pytest==8.3.2
-pytest-shutil==1.7.0
 python-dateutil==2.9.0.post0
-pytz==2020.1
-redis==3.5.3
+pytz==2024.2
 requests==2.32.3
 shiboken6==6.7.2
 six==1.16.0
-termcolor==2.4.0
-tomli==2.0.1
-tornado==6.0.4
 tzdata==2024.1
-urllib3==2.2.2
-vine==1.3.0
-Werkzeug==1.0.1
-zipp==3.1.0
-zope.interface==7.0.1
+urllib3==2.2.3
 ```
 
 1. **配置文件**：
