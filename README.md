@@ -22,7 +22,7 @@ Get_Md5_Information
 https://x.threatbook.com/v5/serviceCenter?tab=myKey
 ```
 
-![image-20240912232356494](C:\Users\BIGFISH\AppData\Roaming\Typora\typora-user-images\image-20240912232356494.png)
+![image](https://github.com/user-attachments/assets/d9438934-c33b-4554-b93e-b338c5e89d48)
 
 #### （二）关于接口信息
 
@@ -32,7 +32,7 @@ https://x.threatbook.com/v5/serviceCenter?tab=myKey
 https://x.threatbook.com/v5/apiDocs
 ```
 
-![image-20240912231946498](C:\Users\BIGFISH\AppData\Roaming\Typora\typora-user-images\image-20240912231946498.png)
+![image](https://github.com/user-attachments/assets/4d727c7d-34a3-4b77-8f52-e81d2f15e734)
 
 ## 三、主要功能
 
