@@ -22,7 +22,7 @@ Get_Md5_Information
 https://x.threatbook.com/v5/serviceCenter?tab=myKey
 ```
 
-![image](https://github.com/user-attachments/assets/42f014ee-3b36-4002-838c-11ff6e5609e8)
+![image](https://github.com/user-attachments/assets/8959a0a0-17d4-4de7-ae4e-0609a489d0c3)
 
 #### （二）关于接口信息
 
@@ -50,31 +50,31 @@ https://x.threatbook.com/v5/apiDocs
 
 - 在第一次打开程序时候，会检测生成一份配置文件
 
-![image-20240912233701256](C:\Users\BIGFISH\AppData\Roaming\Typora\typora-user-images\image-20240912233701256.png)
+![image](https://github.com/user-attachments/assets/9b3ae99e-4642-47d2-a3ec-2dad834f4ecb)
 
-![image-20240912233725978](C:\Users\BIGFISH\AppData\Roaming\Typora\typora-user-images\image-20240912233725978.png)
+![image](https://github.com/user-attachments/assets/abc47ade-bdba-479e-a517-ca4df60a052f)
 
 - 此时就会打开程序gui界面
 
-![image-20240912233750592](C:\Users\BIGFISH\AppData\Roaming\Typora\typora-user-images\image-20240912233750592.png)
+![image](https://github.com/user-attachments/assets/c7c16809-d38e-4de0-b7f8-e5b16f6d9252)
 
 - 在导入文件之前需要先去生成的配置文件里输入api的key，没有的话可以参考关于api里面注册一个
 
-![image-20240912234002785](C:\Users\BIGFISH\AppData\Roaming\Typora\typora-user-images\image-20240912234002785.png)
+![image](https://github.com/user-attachments/assets/54fab610-a9fc-4a16-969b-c164112c8b5d)
 
 - 可以像我这样放多个key，api越多，速度越快（因为微步对每个api都有请求限制），并且每个api可以获取1000条数据。
 
 ### （二）运行界面
 
-![image-20240912230956312](C:\Users\BIGFISH\AppData\Roaming\Typora\typora-user-images\image-20240912230956312.png)
+![image](https://github.com/user-attachments/assets/a8e8e4bc-764c-48a3-966f-ca7300636766)
 
 ### （三）导出结果
 
-![image-20240912231039174](C:\Users\BIGFISH\AppData\Roaming\Typora\typora-user-images\image-20240912231039174.png)
+![image](https://github.com/user-attachments/assets/e227fe35-c43e-4694-928f-05d511dfe20e)
 
 ### （四）导出展示
 
-![image-20240912231140733](C:\Users\BIGFISH\AppData\Roaming\Typora\typora-user-images\image-20240912231140733.png)
+![image](https://github.com/user-attachments/assets/ccba1978-acc8-43dd-aa6a-bc6673aae7ee)
 
 注意事项
 
